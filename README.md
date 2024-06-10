@@ -1,4 +1,4 @@
-# core_lib
+# reusable_widgets
 
 A new Flutter project.
 
