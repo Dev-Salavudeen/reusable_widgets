@@ -1,8 +1,9 @@
 import 'dart:async';
 
-import 'package:core_library/core_library.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+
+import '../models/models.dart';
 
 // enum LoadDetectionLevel {
 //   low,

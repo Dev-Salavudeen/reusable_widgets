@@ -1,8 +1,9 @@
 library app.models;
 
-import 'package:core_library/core_library.dart';
-import 'package:core_library/shared/extensions.dart';
-import 'package:core_library/shared/file_utils.dart';
+import 'package:core_lib/core_library.dart';
+import 'package:core_lib/shared/extensions.dart';
+
+import '../shared/file_utils.dart';
 
 part 'audio.dart';
 part 'content.dart';

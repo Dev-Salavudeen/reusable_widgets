@@ -1,5 +1,9 @@
-import 'package:core_library/core_library.dart';
+import 'package:core_lib/widgets/table_view.dart';
 import 'package:flutter/widgets.dart';
+
+import '../models/models.dart';
+import 'inline_image_view.dart';
+import 'mathml_view.dart';
 
 // class ContentView extends StatelessWidget {
 //   final IContentItem data;

@@ -1,8 +1,11 @@
 import 'dart:convert';
 
-import 'package:core_library/core_library.dart';
-import 'package:core_library/shared/mimes.dart';
+
+import 'package:core_lib/core_library.dart';
+import 'package:core_lib/shared/extensions.dart';
 import 'package:flutter/rendering.dart';
+
+import 'mimes.dart';
 
 const _kDataUriPrefix = "data:";
 

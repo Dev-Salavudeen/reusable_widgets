@@ -1,5 +1,8 @@
-import 'package:core_library/core_library.dart';
+import 'package:core_lib/core_library.dart';
+import 'package:core_lib/shared/extensions.dart';
 import 'package:flutter/material.dart';
+
+import '../models/models.dart';
 
 class TableView extends StatelessWidget {
   final ITable table;

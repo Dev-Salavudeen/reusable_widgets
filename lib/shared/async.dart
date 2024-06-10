@@ -1,6 +1,7 @@
 import 'dart:async';
 
-import 'package:core_library/core_library.dart';
+
+import 'extensions.dart';
 
 typedef AsyncFunction<T> = FutureOr<T> Function();
 

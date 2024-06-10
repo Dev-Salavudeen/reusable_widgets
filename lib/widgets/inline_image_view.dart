@@ -1,5 +1,6 @@
-import 'package:core_library/shared/file_utils.dart';
 import 'package:flutter/material.dart';
+
+import '../shared/file_utils.dart';
 
 class InlineImageView extends StatelessWidget {
   final String src;

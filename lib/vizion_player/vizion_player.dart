@@ -1,7 +1,8 @@
-import 'package:core_library/core_library.dart';
 import 'package:flutter/widgets.dart';
 import 'package:youtube_explode_dart/youtube_explode_dart.dart';
 import 'package:video_player/video_player.dart';
+
+import '../models/models.dart';
 
 part 'models.dart';
 part 'controller.dart';

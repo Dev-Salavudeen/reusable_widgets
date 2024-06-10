@@ -1,7 +1,11 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:core_library/core_library.dart';
-import 'package:core_library/shared/file_utils.dart';
+import 'package:core_lib/core_library.dart';
+import 'package:core_lib/shared/extensions.dart';
+
 import 'package:flutter/material.dart';
+
+import '../models/models.dart';
+import '../shared/file_utils.dart';
 
 class ImageView extends StatelessWidget {
   final IImage data;
